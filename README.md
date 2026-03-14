@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Olá! Me Chamo Mateus, tenho 23 anos e sou natural de Manaus - AM, formado no ensino médio em 2019 e atualmente estudante de **Engenharia de Software**, buscando aprimorar minhas habilidades e aumentar o meu conhecimento na área.
+Olá! Me Chamo Mateus, tenho 24 anos e sou natural de Manaus - AM, formado no ensino médio em 2019 e atualmente estudante de **Engenharia de Software**, buscando aprimorar minhas habilidades e aumentar o meu conhecimento na área.
 
 **"TRYING TO DO BETTER"**
 
