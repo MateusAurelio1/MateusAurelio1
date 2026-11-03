@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;duration=3500&amp;pause=2500&amp;color=6C9BCF&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=45&amp;lines=Ol%C3%A1%2C+seja+bem-vindo%21" alt="Olá, seja bem-vindo!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;duration=3500&amp;pause=2000&amp;color=6C9BCF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=440&amp;height=45&amp;lines=Ol%C3%A1%2C+me+chamo+Mateus+Aur%C3%A9lio;Data+Science" alt="Animação de digitação: Olá, me chamo Mateus Aurélio; Data Science" />
 
   <h1>Sou o Mateus Aurélio</h1>
   <p>25 anos · Estudando Data Science</p>
