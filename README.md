@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;duration=3500&amp;pause=2000&amp;color=6C9BCF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=440&amp;height=45&amp;lines=Ol%C3%A1%2C+Hi!+I'm+Mateus+Aur%C3%A9lio;Data+Scientist;+I'm+from+Brazil;+Be+Welcome!+:)" alt="Animação de digitação: Hi, i'm Mateus Aurélio; I'm form Brazil; Data Scientist; Be Welcome! :)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;duration=3500&amp;pause=2000&amp;color=6C9BCF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=440&amp;height=45&amp;lines=Hi!+I'm+Mateus+Aur%C3%A9lio;Data+Scientist;+I'm+from+Brazil;+Be+Welcome!+:)" alt="Animação de digitação: Hi, i'm Mateus Aurélio; I'm form Brazil; Data Scientist; Be Welcome! :)" />
 </div>
 
 ## Sobre mim
