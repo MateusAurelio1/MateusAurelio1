@@ -1,5 +1,24 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> 
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mateus+Aurélio;I'm+25+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-### Main skills: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;duration=3500&amp;pause=2500&amp;color=6C9BCF&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=45&amp;lines=Ol%C3%A1%2C+seja+bem-vindo%21" alt="Olá, seja bem-vindo!" />
+
+  <h1>Sou o Mateus Aurélio</h1>
+  <p>25 anos · Estudando Data Science</p>
+
+</div>
+
+## Sobre mim
+
+Estou estudando **Data Science** e desenvolvendo minhas habilidades em programação. Por aqui, compartilho meus projetos e aprendizados.
+
+## Minhas habilidades
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-242938?style=flat&amp;logo=html5&amp;logoColor=E34F26" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-242938?style=flat&amp;logo=css&amp;logoColor=639EDB" alt="CSS" />
+  <img src="https://img.shields.io/badge/Python-242938?style=flat&amp;logo=python&amp;logoColor=FFD43B" alt="Python" />
+</p>
+
+---
+
+Obrigado pela visita!
