@@ -1,15 +1,10 @@
 <div align="center">
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;duration=3500&amp;pause=2000&amp;color=6C9BCF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=440&amp;height=45&amp;lines=Ol%C3%A1%2C+me+chamo+Mateus+Aur%C3%A9lio;Data+Science" alt="Animação de digitação: Olá, me chamo Mateus Aurélio; Data Science" />
-
-  <h1>Sou o Mateus Aurélio</h1>
-  <p>25 anos · Estudando Data Science</p>
-
 </div>
 
 ## Sobre mim
 
-Estou estudando **Data Science** e desenvolvendo minhas habilidades em programação. Por aqui, compartilho meus projetos e aprendizados.
+Olá me chamo Mateus Aurélio estou estudando **Data Science** e desenvolvendo minhas habilidades em programação. Por aqui, compartilho meus projetos e aprendizados.
 
 ## Minhas habilidades
 
